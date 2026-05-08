@@ -1,0 +1,30 @@
+{
+  "name": "zenithfcm-tools",
+  "version": "1.0.0",
+  "description": "FC Mobile database tools, squad builder helpers, chemistry calculator, player comparison, and market utilities by ZenithFCM.",
+  "main": "index.js",
+  "homepage": "https://zenithfcm.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7blank-07/Zenith-app-Max"
+  },
+  "bugs": {
+    "url": "https://github.com/7blank-07/Zenith-app-Max/issues"
+  },
+  "keywords": [
+    "fc mobile",
+    "ea fc mobile",
+    "fc mobile database",
+    "fc mobile squad builder",
+    "fc mobile redeem codes",
+    "player database",
+    "kode redeem fc mobile",
+    "chemistry calculator",
+    "zenithfcm"
+  ],
+  "author": "ZenithFCM",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
